@@ -89,10 +89,10 @@ html {
   }
 
   .panel1.open {
-      background-image: url("hoka.jpg");
+      background-image: url("mutant.png");
       background-repeat: no-repeat;
-      display: block;
-      background-size: 400px auto;
+      
+      background-size: 300px auto;
       justify-content: space-between;
       
       
