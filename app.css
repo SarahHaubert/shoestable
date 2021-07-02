@@ -92,7 +92,8 @@ html {
       background-image: url("mutant.png");
       background-repeat: no-repeat;
       display: block;
-      background-size: 300px auto;
+      background-size: 400px auto;
+      
       
       
 
@@ -114,8 +115,8 @@ html {
 .panel4.open {
         background-image: url("kaptiva.png");
         background-repeat: no-repeat;
-        display: inline-block;
-        background-size: 300px auto;
+        display: block;
+        background-size: 400px auto;
 }
 
 .panel5.open {
