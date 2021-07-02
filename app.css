@@ -42,11 +42,11 @@ html {
     flex-direction: column;
   }
 
-  .panel1 { background-image:url(technical.jpg); }
-  .panel2 { background-image:url(comfort.jpg); }
-  .panel3 { background-image:url(me\ teewinot.jpg); }
-  .panel4 { background-image:url(faststeep.jpg); }
-  .panel5 { background-image:url(longtechnical.jpg); }
+  .panel1 { background-image:url(technical.png); }
+  .panel2 { background-image:url(comfort.png); }
+  .panel3 { background-image:url(teewinot.png); }
+  .panel4 { background-image:url(faststeep.png); }
+  .panel5 { background-image:url(longtechnical.png); }
 
   /* Flex Children */
   .panel > * {
